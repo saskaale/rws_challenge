@@ -16,13 +16,12 @@ docker-compose build
 docker-compose up
 ```
 
-## Step 3: explore API calls
+## Step 3: run
 
-through swagger which is theu automatically http://localhost:5000/swagger
+go to http://localhost:5001 to see frontend
 
-## Step 3: See simple webpage
+you could explore all APIs through swagger which is theu automatically http://localhost:5000/swagger
 
-go to http://localhost:5001
 
 
 
